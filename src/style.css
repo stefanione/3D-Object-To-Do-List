@@ -1,0 +1,26 @@
+body {
+    margin: 0; /* Removes the default margins of the page to prevent unnecessary white spaces*/
+    overflow: hidden; /*  Hides any content that overflows the visible area of the page, preventing scrollbars from appearing */
+}
+
+canvas {
+    display: block; /*  Turns the <canvas> element into a block-level element, eliminating unwanted spaces */
+}
+
+#ui {
+    position: absolute; /* Positions the element absolutely relative to its nearest positioned ancestor */
+    top: 10px; 
+    left: 10px;
+    /* Places the element 10 pixels from the top and left of its positioned ancestor*/
+    z-index: 10; /* Controls the stacking order, ensuring the element is displayed above other elements */
+    background: rgba(255, 255, 255, 0.8); /* Sets a semi-transparent white background with 80% opacity */
+    padding: 10px; /* Adds a 10-pixel space inside all sides of the element */
+    border-radius: 5px; /* Rounds the corners of the element with a 5-pixel radius */ 
+}
+
+#taskList {
+    margin-top: 10px; /* Adds a top margin to the task list */
+}
+#taskList li {
+    cursor: pointer; /* Changes the cursor to a pointer when hovering over list items, indicating that they are clickable */
+}
