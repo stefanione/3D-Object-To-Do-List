@@ -14,7 +14,8 @@
 
   The package-lock.json file was generated automatically when installing npm, it contains detailed and precise information about all of the installed packages, to ensure the consistency of the build
 
-  Here is a youtube video on how to run the program, the video itself is unlisted meaning that only those who have the link may access it => https://www.youtube.com/watch?v=wdH0Iwfcgb8
+  Here is a youtube video on how to run the program, the video itself is unlisted meaning that only those who have the link may access it => https://www.youtube.com/watch?v=TeLp1-xTN9o
+  
 
 
   
